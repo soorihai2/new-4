@@ -2,8 +2,8 @@
 // Database connection parameters  
 $host = 'localhost';  
 $dbname = 'carri_db';  
-$username = 'your_username'; // Replace with your database username  
-$password = 'your_password'; // Replace with your database password  
+$username = 'admin_1'; // Replace with your database username  
+$password = 'Admin@2025'; // Replace with your database password  
 
 // Create connection  
 $conn = new mysqli($host, $username, $password, $dbname);  
